@@ -11,6 +11,7 @@ Starting to write this log after 24 days since I started 100DaysOfCode^^. O'rite
 **Thoughts**: I really like how she explains things in a clear and simple way <3 I will continue learning from this video and other videos of hers (creating games - video on FreeCodeCamp YT channel) =D She's cool...I like her ^^
 
 **Link to lesson**: https://www.youtube.com/watch?v=Xm4BObh4MhI
+
 **Link to work**: on laptop
 
 
@@ -23,6 +24,7 @@ Starting to write this log after 24 days since I started 100DaysOfCode^^. O'rite
 **Thoughts**: This is a pretty fun app, I like it^^
 
 **Link to lesson**: Codemurai app
+
 **Link to work**:
 
 
@@ -35,6 +37,7 @@ Starting to write this log after 24 days since I started 100DaysOfCode^^. O'rite
 **Thoughts**:  I like easing into this JavaScript learning in a fun way, just to see how the code looks by playing games or following a responsive website instructions. At the moment it is not so important to understand everything, but simply to enjoy the process and let go, knowing I will understand everything after deep learning. #makingnConnectionsInBrain
 
 **Link to lesson**: https://cssgridgarden.com/  https://rupl.github.io/unfold/  https://learn.grasshopper.app/
+
 **Link to work**:
 
 
@@ -47,6 +50,7 @@ Starting to write this log after 24 days since I started 100DaysOfCode^^. O'rite
 **Thoughts**: 
 
 **Link to lesson**:
+
 **Link to work**:
 
 
@@ -59,6 +63,7 @@ Starting to write this log after 24 days since I started 100DaysOfCode^^. O'rite
 **Thoughts**: 
 
 **Link to lesson**:
+
 **Link to work**:
 
 ### Day 28: January 22nd, 2021 (Fri)
@@ -70,6 +75,7 @@ Starting to write this log after 24 days since I started 100DaysOfCode^^. O'rite
 **Thoughts**: 
 
 **Link to lesson**:
+
 **Link to work**:
 
 ### Day 28: January 22nd, 2021 (Fri)
