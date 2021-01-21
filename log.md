@@ -1,30 +1,282 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+Starting to write this log after 24 days since I started 100DaysOfCode^^. O'rite, let's get to it! =D
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 25: January 19th, 2021 (Tue)
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Started Ania Kubów's 12HRS+ Coding Bootcamp on YouTube and have reviewed HTML and partially CSS #workingAsWeGo, next on is JavaSkript
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Time put in**: 2hrs
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Thoughts**: I really like how she explains things in a clear and simple way <3 I will continue learning from this video and other videos of hers (creating games - video on FreeCodeCamp YT channel) =D She's cool...I like her ^^
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to lesson**: https://www.youtube.com/watch?v=Xm4BObh4MhI
+**Link to work**: on laptop
 
 
-### Day 1: June 27, Monday
+### Day 26: January 20th, 2021 (Wed)
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Started my day with Codemurai app - learning about JavaScript
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Time put in**: 1h
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts**: This is a pretty fun app, I like it^^
+
+**Link to lesson**: Codemurai app
+**Link to work**:
+
+
+### Day 27: January 21st, 2021 (Thu)
+
+**Today's Progress**: Reviewed CSS Grid via fun website (link below), also checked out more of CSS on another website #mindIsBlown, been learning JavaScript on Grasshopper website and got my certificate for Fundamentals I - yaaay, so exciting =D And the website is so encouraging and nice *.* 
+
+**Time put in**: 5hrs
+
+**Thoughts**:  I like easing into this JavaScript learning in a fun way, just to see how the code looks by playing games or following a responsive website instructions. At the moment it is not so important to understand everything, but simply to enjoy the process and let go, knowing I will understand everything after deep learning. #makingnConnectionsInBrain
+
+**Link to lesson**: https://cssgridgarden.com/  https://rupl.github.io/unfold/  https://learn.grasshopper.app/
+**Link to work**:
+
+
+### Day 28: January 22nd, 2021 (Fri)
+
+**Today's Progress**: 
+
+**Time put in**:
+
+**Thoughts**: 
+
+**Link to lesson**:
+**Link to work**:
+
+
+### Day 28: January 22nd, 2021 (Fri)
+
+**Today's Progress**: 
+
+**Time put in**:
+
+**Thoughts**: 
+
+**Link to lesson**:
+**Link to work**:
+
+### Day 28: January 22nd, 2021 (Fri)
+
+**Today's Progress**: 
+
+**Time put in**:
+
+**Thoughts**: 
+
+**Link to lesson**:
+**Link to work**:
+
+### Day 28: January 22nd, 2021 (Fri)
+
+**Today's Progress**: 
+
+**Time put in**:
+
+**Thoughts**: 
+
+**Link to lesson**:
+**Link to work**:
+
+### Day 28: January 22nd, 2021 (Fri)
+
+**Today's Progress**: 
+
+**Time put in**:
+
+**Thoughts**: 
+
+**Link to lesson**:
+**Link to work**:
+
+### Day 28: January 22nd, 2021 (Fri)
+
+**Today's Progress**: 
+
+**Time put in**:
+
+**Thoughts**: 
+
+**Link to lesson**:
+**Link to work**:
+
+### Day 28: January 22nd, 2021 (Fri)
+
+**Today's Progress**: 
+
+**Time put in**:
+
+**Thoughts**: 
+
+**Link to lesson**:
+**Link to work**:
+
+### Day 28: January 22nd, 2021 (Fri)
+
+**Today's Progress**: 
+
+**Time put in**:
+
+**Thoughts**: 
+
+**Link to lesson**:
+**Link to work**:
+
+### Day 28: January 22nd, 2021 (Fri)
+
+**Today's Progress**: 
+
+**Time put in**:
+
+**Thoughts**: 
+
+**Link to lesson**:
+**Link to work**:
+
+### Day 28: January 22nd, 2021 (Fri)
+
+**Today's Progress**: 
+
+**Time put in**:
+
+**Thoughts**: 
+
+**Link to lesson**:
+**Link to work**:
+
+### Day 28: January 22nd, 2021 (Fri)
+
+**Today's Progress**: 
+
+**Time put in**:
+
+**Thoughts**: 
+
+**Link to lesson**:
+**Link to work**:
+
+### Day 28: January 22nd, 2021 (Fri)
+
+**Today's Progress**: 
+
+**Time put in**:
+
+**Thoughts**: 
+
+**Link to lesson**:
+**Link to work**:
+
+### Day 28: January 22nd, 2021 (Fri)
+
+**Today's Progress**: 
+
+**Time put in**:
+
+**Thoughts**: 
+
+**Link to lesson**:
+**Link to work**:
+
+### Day 28: January 22nd, 2021 (Fri)
+
+**Today's Progress**: 
+
+**Time put in**:
+
+**Thoughts**: 
+
+**Link to lesson**:
+**Link to work**:
+
+### Day 28: January 22nd, 2021 (Fri)
+
+**Today's Progress**: 
+
+**Time put in**:
+
+**Thoughts**: 
+
+**Link to lesson**:
+**Link to work**:
+
+### Day 28: January 22nd, 2021 (Fri)
+
+**Today's Progress**: 
+
+**Time put in**:
+
+**Thoughts**: 
+
+**Link to lesson**:
+**Link to work**:
+
+### Day 28: January 22nd, 2021 (Fri)
+
+**Today's Progress**: 
+
+**Time put in**:
+
+**Thoughts**: 
+
+**Link to lesson**:
+**Link to work**:
+
+### Day 28: January 22nd, 2021 (Fri)
+
+**Today's Progress**: 
+
+**Time put in**:
+
+**Thoughts**: 
+
+**Link to lesson**:
+**Link to work**:
+
+### Day 28: January 22nd, 2021 (Fri)
+
+**Today's Progress**: 
+
+**Time put in**:
+
+**Thoughts**: 
+
+**Link to lesson**:
+**Link to work**:
+
+### Day 28: January 22nd, 2021 (Fri)
+
+**Today's Progress**: 
+
+**Time put in**:
+
+**Thoughts**: 
+
+**Link to lesson**:
+**Link to work**:
+
+### Day 28: January 22nd, 2021 (Fri)
+
+**Today's Progress**: 
+
+**Time put in**:
+
+**Thoughts**: 
+
+**Link to lesson**:
+**Link to work**:
+
+### Day 28: January 22nd, 2021 (Fri)
+
+**Today's Progress**: 
+
+**Time put in**:
+
+**Thoughts**: 
+
+**Link to lesson**:
+**Link to work**:
